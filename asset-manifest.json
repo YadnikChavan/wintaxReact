@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/YadnikChavan.github.io/wintaxReact/static/css/main.b43b0665.chunk.css",
+    "main.js": "/YadnikChavan.github.io/wintaxReact/static/js/main.dce585b9.chunk.js",
+    "main.js.map": "/YadnikChavan.github.io/wintaxReact/static/js/main.dce585b9.chunk.js.map",
+    "runtime-main.js": "/YadnikChavan.github.io/wintaxReact/static/js/runtime-main.666afa5e.js",
+    "runtime-main.js.map": "/YadnikChavan.github.io/wintaxReact/static/js/runtime-main.666afa5e.js.map",
+    "static/css/2.150d169a.chunk.css": "/YadnikChavan.github.io/wintaxReact/static/css/2.150d169a.chunk.css",
+    "static/js/2.23bf5339.chunk.js": "/YadnikChavan.github.io/wintaxReact/static/js/2.23bf5339.chunk.js",
+    "static/js/2.23bf5339.chunk.js.map": "/YadnikChavan.github.io/wintaxReact/static/js/2.23bf5339.chunk.js.map",
+    "index.html": "/YadnikChavan.github.io/wintaxReact/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/YadnikChavan.github.io/wintaxReact/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b43b0665.chunk.css.map": "/YadnikChavan.github.io/wintaxReact/static/css/main.b43b0665.chunk.css.map",
+    "static/js/2.23bf5339.chunk.js.LICENSE.txt": "/YadnikChavan.github.io/wintaxReact/static/js/2.23bf5339.chunk.js.LICENSE.txt",
+    "static/media/Home.04a8e4fb.png": "/YadnikChavan.github.io/wintaxReact/static/media/Home.04a8e4fb.png",
+    "static/media/address.6050f935.png": "/YadnikChavan.github.io/wintaxReact/static/media/address.6050f935.png",
+    "static/media/email.bc5020f7.png": "/YadnikChavan.github.io/wintaxReact/static/media/email.bc5020f7.png",
+    "static/media/genius.c7d2f6d8.png": "/YadnikChavan.github.io/wintaxReact/static/media/genius.c7d2f6d8.png",
+    "static/media/phone.b669319a.png": "/YadnikChavan.github.io/wintaxReact/static/media/phone.b669319a.png",
+    "static/media/tally.b50a91d8.png": "/YadnikChavan.github.io/wintaxReact/static/media/tally.b50a91d8.png",
+    "static/media/tdsReturn.273e3fae.png": "/YadnikChavan.github.io/wintaxReact/static/media/tdsReturn.273e3fae.png",
+    "static/media/usb.291eeac0.jfif": "/YadnikChavan.github.io/wintaxReact/static/media/usb.291eeac0.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666afa5e.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.23bf5339.chunk.js",
+    "static/css/main.b43b0665.chunk.css",
+    "static/js/main.dce585b9.chunk.js"
+  ]
+}
