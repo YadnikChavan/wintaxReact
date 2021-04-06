@@ -17,8 +17,8 @@ const App = () => {
     <Navbar/>
       <Switch>
         <Route exact path="/" component={Home}/>
-        <Route exact path="/service" component={Services}/>
-        <Route exact path="/callback" component={CallBack}/>
+        <Route  path="/service" component={Services}/>
+        <Route  path="/callback" component={CallBack}/>
         <Redirect to='/'/>
       </Switch>
       <Footer/>
